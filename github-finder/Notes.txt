@@ -1,0 +1,11 @@
+download this think in vs code
+
+ES7 React/Redux/GraphQL/React-Native snippets
+Bracket Pair Colorizer
+Auto Close Tag
+Auto Rename Tag
+Prettier - code formatter
+---------------------
+go to terminal
+
+npm i axios
